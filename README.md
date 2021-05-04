@@ -1,2 +1,3 @@
 # Calculadora-con-Java
-Calculadora básica realizada con Java y Swing.
+Calculadora que ejecuta operaciones basicas como, suma, resta, multiplicacion, division y porcentaje. <br>
+Se utilizo Windows Builder y la libreria Swing para crear la Intefaz.
